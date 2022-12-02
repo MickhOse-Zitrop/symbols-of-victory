@@ -32,6 +32,6 @@ function background(e_id) {
 	var e = document.getElementById(e_id)
 	e.classList.toggle('active');
 	var styleElem = document.head.appendChild(document.createElement("style"));
-	styleElem.innerHTML = ".section__show.active#" + e_id + ":after {background-image: url('../img/" + e_id + ".jpg');}";
+	styleElem.innerHTML = ".section__show.active#" + e_id + ":after {background-image: url('img/" + e_id + ".jpg');}";
 }
 
