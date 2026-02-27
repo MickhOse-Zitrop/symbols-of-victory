@@ -42,3 +42,22 @@ symbols-of-victory/
 ├── css/
 ├── js/
 └── img/
+```
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+  ```
+  git clone https://github.com/MickhOse-Zitrop/symbols-of-victory.git
+  ```
+
+2. Open index.html in your browser.
+
+---
+
+## 📌 Notes
+
+The project is mainly in Russian.
